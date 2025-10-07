@@ -1,5 +1,0 @@
-f=open("demo.py","r")
-content=f.read()
-print(content)
-l=content.split()
-print(l)
